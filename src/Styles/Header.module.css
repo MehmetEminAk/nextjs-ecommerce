@@ -1,0 +1,44 @@
+.header_container {
+    display: flex;
+    background-color: gray;
+    height: 8vh;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0;
+}
+
+.logo_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+    height: 100%;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+
+  .logo_container a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .logo_container a:hover{
+    
+    color: black;
+  }
+
+  .nav_container {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-right: 20px;
+  }
+
+  .nav_bar {
+    background-color: blue;
+    height: 100vh;
+  }
+
+
+  
